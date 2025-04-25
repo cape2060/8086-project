@@ -54,3 +54,7 @@ This is a fully functional Bank Account Management System written in **x86 Assem
    ```bash
    tasm bank system management.asm
    tlink bank system managemrnt.obj
+
+## OR
+1. Install emu8086
+2. Run the file
