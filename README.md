@@ -51,5 +51,5 @@ This is a fully functional Bank Account Management System written in **x86 Assem
 1. Install **TASM** and **Turbo Debugger** (or DOSBox with TASM setup).
 2. Assemble and link the file:
    ```bash
-   tasm bank.asm
-   tlink bank.obj
+   tasm bank system management.asm
+   tlink bank system managemrnt.obj
